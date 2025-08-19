@@ -1,5 +1,35 @@
 ![GIF](dealwithitbot.gif)
 
+# 🌐 ABC Protocol
+
+ABC Protocol is an open-source project focused on building tools and infrastructure for the community.  
+Our mission is to create simple, transparent, and powerful solutions that help everyone participate and innovate.
+
+---
+
+## 🎉 Community Contribution
+
+This is the **first fun AI project contributed by our community members**!  
+It shows the spirit of open collaboration and creativity we want to build together.  
+We welcome more developers and AI enthusiasts to join us, discuss ideas, and co-create the future of community-driven AI.
+
+---
+
+## ✨ Features
+- Open-source, community-driven development  
+- Easy to deploy and extend  
+- Built with modern web technologies  
+- Designed for scalability and fun  
+
+---
+
+## 🤝 Community
+
+- **Twitter (X):** [@ABC_CTO](https://x.com/ABC_CTO)  
+- **Telegram:** [Join our TG](https://t.me/CTOABC)  
+
+---
+
 ### the dealwithit bot
 Detects all faces in a photo and slides on a pair of pixel shades. Truly a worthwhile use of the bountiful technological feast made possible by machine learning and artificial intelligence. Deal with it. Test it out at [aifunclub.azurewebsites.net](http://aifunclub.azurewebsites.net).
 
